@@ -6,9 +6,9 @@ Makes data flow transparent and predictable.
 
 # The store
 
-A JS object, accessible by all parts of the UI.
-Can contain arrays, objects, booleans, etc.
-Not for dirently modifying or mutating state. The store is an immutable object, update it using a fucntion and spread operator.
+-A JS object, accessible by all parts of the UI.
+-Can contain arrays, objects, booleans, etc.
+-Not for dirently modifying or mutating state. The store is an immutable object, update it using a fucntion and spread operator.
 
 # Reducer
 
